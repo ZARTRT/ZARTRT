@@ -11,8 +11,8 @@ A place for front-end junior developers to take notes
 - :microphone: I look forward to the guidance of technical talents.
 - :car: How to reach me:
 
-| [<img src="https://github.com/muwoo/muwoo/blob/main/zhihu.png" alt="zhihu logo" width="30">](https://www.zhihu.com/people/jnin-14) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="32">](https://github.com/ZARTRT) |  [<img src="https://favicons.githubusercontent.com/juejin.cn" alt="juejin logo" width="24">](https://juejin.cn/user/2014750841508125) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](438305438@qq.com)
-|---|---|---|---|
+| [<img src="https://github.com/muwoo/muwoo/blob/main/zhihu.png" alt="zhihu logo" width="30">](https://www.zhihu.com/people/jnin-14) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="32">](https://github.com/ZARTRT) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](438305438@qq.com)
+|---|---|---|
 
 ----
 ### Profile Trophies
