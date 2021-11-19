@@ -27,7 +27,7 @@ A place for front-end junior developers to take notes
 | <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/2e8889106108c13c8661c863c714a0c3.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/1527df1ff09dca815ea5c1c47a89f384.gif width="160" height="100"> | 
 | :---: | :---: | :---: |
 | <b>Coding</b> | <b>Dota</b> | <b>Anime</b> |
-
+<!-- The Github page is modeled after Muwoo. His Github page is https://github.com/muwoo -->
 <!---
 ZARTRT/ZARTRT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
