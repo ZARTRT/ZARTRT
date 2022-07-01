@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://komarev.com/ghpvc/?username=zartrt&color=blue&style=flat-square&label=PROFILE+VIEWS)
   
 :heart: Programming | :green_heart: Dota | :blue_heart: Anime
